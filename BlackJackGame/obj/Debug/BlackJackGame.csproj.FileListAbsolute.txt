@@ -1,0 +1,11 @@
+Z:\Desktop\C#\Second sem\Projects\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+Z:\Desktop\C#\Second sem\Projects\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe
+Z:\Desktop\C#\Second sem\Projects\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.pdb
+Z:\Desktop\C#\Second sem\Projects\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.AssemblyReference.cache
+Z:\Desktop\C#\Second sem\Projects\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Form1.resources
+Z:\Desktop\C#\Second sem\Projects\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Form2.resources
+Z:\Desktop\C#\Second sem\Projects\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Properties.Resources.resources
+Z:\Desktop\C#\Second sem\Projects\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.GenerateResource.cache
+Z:\Desktop\C#\Second sem\Projects\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.CoreCompileInputs.cache
+Z:\Desktop\C#\Second sem\Projects\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.exe
+Z:\Desktop\C#\Second sem\Projects\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.pdb
